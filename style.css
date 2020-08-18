@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#sample {
+    width: 400px;
+    display: block;
+    margin: 40px auto;
+}
+
+#maining {
+    display: block;
+    margin: 0 auto;
+    width: 1400px;
+    border-radius: 25px / 25px;
+}
+
+div ul li {
+    display: inline;
+    padding: 0 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+.menu{
+    text-align: center;
+    padding: 50px;
+}
+
+#information {
+    border: 10px solid #CD853F;
+    background-color: #CD853F;
+    color: white;
+    border-radius: 10px / 10px;
+    padding: 5px 10px;
+    margin: 0 130px;
+}
+
+.history {
+    margin: 30px 150px;
+}
+
+.text {
+    margin: 10px 10px 10px -5px;
+    color: gray;
+}
+
+#policy {
+    border: 1px solid;
+    background-color: white;
+    color: gray;
+    border-radius: 10px / 10px;
+    padding: 15px 10px;
+    margin: 20px 130px;
+}
+
+.warning {
+    margin: 30px 150px;
+}
+
+.colored_text {
+    margin: 10px 10px 10px -5px;
+    color: #CD853F;
+}
+
+.copyright {
+    text-align: center;
+    color: gray;
+    font-size: 14px;
+    margin-bottom: 10px
+}
+
+.web-design-template {
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 10px
+}
+
+.menu ul a {
+    text-decoration: none;
+}
+
+.menu ul a:hover {
+    text-decoration: underline;
+    color: #CD853F;
+}
+
+.underline {
+    color: gray;
+}
